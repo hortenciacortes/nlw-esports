@@ -50,7 +50,7 @@ Você irá precisar de um terminal para cada aplicação: server, web e mobile.
     # Execute a aplicação em modo de desenvolvimento
     	npm run dev
     # O servidor iniciará na porta: 3333
-		Acesse http://localhost:3333/ads
+			Acesse http://localhost:3333/ads
 
 *Web*
 
@@ -69,12 +69,13 @@ Você irá precisar de um terminal para cada aplicação: server, web e mobile.
     # Com a pasta nlw-esports aberta no terminal você irá acessar a pasta mobile
     	cd mobile
     # Instale a dependência do npm
-	     npm install
+			npm install
     # Execute a aplicação em modo de desenvolvimento
-	     expo start 
-     # Irá aparecer uma mensagem com a informação de onde o servidor está rodando
-	     Escanei o QR code no seu celular ou abra seu emulador
-	     (pode demorar alguns minutos para iniciar a aplicalção).
+			expo start 
+		# Irá aparecer uma mensagem com a informação de onde o servidor está rodando
+			Escanei o QR code no seu celular ou abra seu emulador, em seguida, aperte a tecla:
+			a - para abrir no android
+			i - para abrir no iOS
 
 ### 🛠 Tecnologias <a id="tecnologias"></a>
 

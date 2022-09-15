@@ -24,6 +24,9 @@ npm-debug.*
 *.orig.*
 web-build/
 
+# Keep environment variables out of version control
+.env
+
 # macOS
 .DS_Store
 

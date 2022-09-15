@@ -82,8 +82,12 @@ Você irá precisar de um terminal para cada aplicação: server, web e mobile.
 Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 
 - ReactJS
-- NodeJS
 - React Native
+- NodeJS
+- Prisma
+- Radix
+- Tailwind
+- Phosphor Icons
 
 ### 👧 Autora <a id="autora"></a>
 

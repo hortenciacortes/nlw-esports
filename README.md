@@ -1,7 +1,7 @@
 
 ## NLW eSports
 
-🚧 Projeto em andamento
+Projeto construído durante o Next Level Week eSports, na trilha Ignite
 
 ### Conteúdo
 
@@ -15,23 +15,23 @@
 
 ### 💻 Sobre o Projeto<a id="sobre-projeto"></a>
 
+Projeto contém a interface web (com React.JS) e mobile (com React Native) e a criação do back-end (com NodeJS).
     
 ### 🎨  Layout <a id="layout"></a>
     
-**Desktop**
-
-**Tablet**
+**Web**
+![enter image description here](https://github.com/hortenciacortes/nlw-esports/blob/main/esports-web.png?raw=true)
 
 **Mobile**
+![enter image description here](https://github.com/hortenciacortes/nlw-esports/blob/main/esports-mobile.gif?raw=true)
 
- ### 🚀  Como executar o projeto <a id="executar-projeto"></a>
+### 🚀  Como executar o projeto <a id="executar-projeto"></a>
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:  [Git](https://git-scm.com/),  [Node.js](https://nodejs.org/pt-br/).
 
 Para abrir o projeto mobile também é necessário ter instalado o expo na sua máquina e um emulador mobile, ou instalar o expo no seu celular.
 
 Além disto é bom ter um editor para trabalhar com o código como  [VSCode](https://code.visualstudio.com/).
-
 
 #### 🎲Rodando a Aplicação
 
